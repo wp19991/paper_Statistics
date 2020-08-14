@@ -1,0 +1,193 @@
+year,group_name,hiuyi_name,count
+2017,百度,Neural Information Processing Systems,3
+2017,腾讯,Neural Information Processing Systems,5
+2017,阿里,Neural Information Processing Systems,0
+2018,百度,Neural Information Processing Systems,6
+2018,腾讯,Neural Information Processing Systems,30
+2018,阿里,Neural Information Processing Systems,2
+2019,百度,Neural Information Processing Systems,5
+2019,腾讯,Neural Information Processing Systems,16
+2019,阿里,Neural Information Processing Systems,8
+2020,百度,Neural Information Processing Systems,0
+2020,腾讯,Neural Information Processing Systems,0
+2020,阿里,Neural Information Processing Systems,0
+2017,百度,National Conference on Artificial Intelligence,5
+2017,腾讯,National Conference on Artificial Intelligence,4
+2017,阿里,National Conference on Artificial Intelligence,2
+2018,百度,National Conference on Artificial Intelligence,13
+2018,腾讯,National Conference on Artificial Intelligence,15
+2018,阿里,National Conference on Artificial Intelligence,15
+2019,百度,National Conference on Artificial Intelligence,22
+2019,腾讯,National Conference on Artificial Intelligence,63
+2019,阿里,National Conference on Artificial Intelligence,29
+2020,百度,National Conference on Artificial Intelligence,22
+2020,腾讯,National Conference on Artificial Intelligence,68
+2020,阿里,National Conference on Artificial Intelligence,39
+2017,百度,Meeting of the Association for Computational Linguistics,3
+2017,腾讯,Meeting of the Association for Computational Linguistics,1
+2017,阿里,Meeting of the Association for Computational Linguistics,1
+2018,百度,Meeting of the Association for Computational Linguistics,10
+2018,腾讯,Meeting of the Association for Computational Linguistics,12
+2018,阿里,Meeting of the Association for Computational Linguistics,5
+2019,百度,Meeting of the Association for Computational Linguistics,8
+2019,腾讯,Meeting of the Association for Computational Linguistics,31
+2019,阿里,Meeting of the Association for Computational Linguistics,12
+2020,百度,Meeting of the Association for Computational Linguistics,0
+2020,腾讯,Meeting of the Association for Computational Linguistics,0
+2020,阿里,Meeting of the Association for Computational Linguistics,0
+2017,百度,International Journal of Computer Vision,1
+2017,腾讯,International Journal of Computer Vision,0
+2017,阿里,International Journal of Computer Vision,0
+2018,百度,International Journal of Computer Vision,1
+2018,腾讯,International Journal of Computer Vision,2
+2018,阿里,International Journal of Computer Vision,0
+2019,百度,International Journal of Computer Vision,0
+2019,腾讯,International Journal of Computer Vision,3
+2019,阿里,International Journal of Computer Vision,2
+2020,百度,International Journal of Computer Vision,0
+2020,腾讯,International Journal of Computer Vision,4
+2020,阿里,International Journal of Computer Vision,0
+2017,百度,International Joint Conference on Artificial Intelligence,3
+2017,腾讯,International Joint Conference on Artificial Intelligence,9
+2017,阿里,International Joint Conference on Artificial Intelligence,2
+2018,百度,International Joint Conference on Artificial Intelligence,5
+2018,腾讯,International Joint Conference on Artificial Intelligence,25
+2018,阿里,International Joint Conference on Artificial Intelligence,10
+2019,百度,International Joint Conference on Artificial Intelligence,12
+2019,腾讯,International Joint Conference on Artificial Intelligence,23
+2019,阿里,International Joint Conference on Artificial Intelligence,31
+2020,百度,International Joint Conference on Artificial Intelligence,0
+2020,腾讯,International Joint Conference on Artificial Intelligence,2
+2020,阿里,International Joint Conference on Artificial Intelligence,2
+2017,百度,International Conference on Robotics and Automation,0
+2017,腾讯,International Conference on Robotics and Automation,0
+2017,阿里,International Conference on Robotics and Automation,0
+2018,百度,International Conference on Robotics and Automation,5
+2018,腾讯,International Conference on Robotics and Automation,0
+2018,阿里,International Conference on Robotics and Automation,0
+2019,百度,International Conference on Robotics and Automation,4
+2019,腾讯,International Conference on Robotics and Automation,2
+2019,阿里,International Conference on Robotics and Automation,1
+2020,百度,International Conference on Robotics and Automation,1
+2020,腾讯,International Conference on Robotics and Automation,0
+2020,阿里,International Conference on Robotics and Automation,2
+2017,百度,International Conference on Machine Learning,3
+2017,腾讯,International Conference on Machine Learning,2
+2017,阿里,International Conference on Machine Learning,0
+2018,百度,International Conference on Machine Learning,7
+2018,腾讯,International Conference on Machine Learning,10
+2018,阿里,International Conference on Machine Learning,1
+2019,百度,International Conference on Machine Learning,1
+2019,腾讯,International Conference on Machine Learning,10
+2019,阿里,International Conference on Machine Learning,3
+2020,百度,International Conference on Machine Learning,0
+2020,腾讯,International Conference on Machine Learning,0
+2020,阿里,International Conference on Machine Learning,0
+2017,百度,International Conference on Learning Representations,4
+2017,腾讯,International Conference on Learning Representations,0
+2017,阿里,International Conference on Learning Representations,0
+2018,百度,International Conference on Learning Representations,13
+2018,腾讯,International Conference on Learning Representations,1
+2018,阿里,International Conference on Learning Representations,0
+2019,百度,International Conference on Learning Representations,4
+2019,腾讯,International Conference on Learning Representations,3
+2019,阿里,International Conference on Learning Representations,2
+2020,百度,International Conference on Learning Representations,2
+2020,腾讯,International Conference on Learning Representations,4
+2020,阿里,International Conference on Learning Representations,4
+2017,百度,International Conference on Computer Vision,7
+2017,腾讯,International Conference on Computer Vision,9
+2017,阿里,International Conference on Computer Vision,2
+2018,百度,International Conference on Computer Vision,1
+2018,腾讯,International Conference on Computer Vision,0
+2018,阿里,International Conference on Computer Vision,0
+2019,百度,International Conference on Computer Vision,14
+2019,腾讯,International Conference on Computer Vision,23
+2019,阿里,International Conference on Computer Vision,8
+2020,百度,International Conference on Computer Vision,0
+2020,腾讯,International Conference on Computer Vision,0
+2020,阿里,International Conference on Computer Vision,0
+2017,百度,IEEE Transactions on Pattern Analysis and Machine Intelligence,0
+2017,腾讯,IEEE Transactions on Pattern Analysis and Machine Intelligence,0
+2017,阿里,IEEE Transactions on Pattern Analysis and Machine Intelligence,2
+2018,百度,IEEE Transactions on Pattern Analysis and Machine Intelligence,2
+2018,腾讯,IEEE Transactions on Pattern Analysis and Machine Intelligence,4
+2018,阿里,IEEE Transactions on Pattern Analysis and Machine Intelligence,1
+2019,百度,IEEE Transactions on Pattern Analysis and Machine Intelligence,6
+2019,腾讯,IEEE Transactions on Pattern Analysis and Machine Intelligence,13
+2019,阿里,IEEE Transactions on Pattern Analysis and Machine Intelligence,2
+2020,百度,IEEE Transactions on Pattern Analysis and Machine Intelligence,0
+2020,腾讯,IEEE Transactions on Pattern Analysis and Machine Intelligence,0
+2020,阿里,IEEE Transactions on Pattern Analysis and Machine Intelligence,0
+2017,百度,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2017,腾讯,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2017,阿里,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2018,百度,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2018,腾讯,"IEEE Transactions on Audio, Speech, and Language Processing",2
+2018,阿里,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2019,百度,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2019,腾讯,"IEEE Transactions on Audio, Speech, and Language Processing",3
+2019,阿里,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2020,百度,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2020,腾讯,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2020,阿里,"IEEE Transactions on Audio, Speech, and Language Processing",0
+2017,百度,European Conference on Computer Vision,0
+2017,腾讯,European Conference on Computer Vision,0
+2017,阿里,European Conference on Computer Vision,0
+2018,百度,European Conference on Computer Vision,9
+2018,腾讯,European Conference on Computer Vision,37
+2018,阿里,European Conference on Computer Vision,6
+2019,百度,European Conference on Computer Vision,0
+2019,腾讯,European Conference on Computer Vision,0
+2019,阿里,European Conference on Computer Vision,0
+2020,百度,European Conference on Computer Vision,0
+2020,腾讯,European Conference on Computer Vision,0
+2020,阿里,European Conference on Computer Vision,0
+2017,百度,Empirical Methods in Natural Language Processing,3
+2017,腾讯,Empirical Methods in Natural Language Processing,6
+2017,阿里,Empirical Methods in Natural Language Processing,0
+2018,百度,Empirical Methods in Natural Language Processing,12
+2018,腾讯,Empirical Methods in Natural Language Processing,23
+2018,阿里,Empirical Methods in Natural Language Processing,2
+2019,百度,Empirical Methods in Natural Language Processing,1
+2019,腾讯,Empirical Methods in Natural Language Processing,2
+2019,阿里,Empirical Methods in Natural Language Processing,1
+2020,百度,Empirical Methods in Natural Language Processing,0
+2020,腾讯,Empirical Methods in Natural Language Processing,0
+2020,阿里,Empirical Methods in Natural Language Processing,0
+2017,百度,Conference on Learning Theory,0
+2017,腾讯,Conference on Learning Theory,0
+2017,阿里,Conference on Learning Theory,1
+2018,百度,Conference on Learning Theory,0
+2018,腾讯,Conference on Learning Theory,0
+2018,阿里,Conference on Learning Theory,0
+2019,百度,Conference on Learning Theory,0
+2019,腾讯,Conference on Learning Theory,1
+2019,阿里,Conference on Learning Theory,0
+2020,百度,Conference on Learning Theory,0
+2020,腾讯,Conference on Learning Theory,0
+2020,阿里,Conference on Learning Theory,0
+2017,百度,Computer Vision and Pattern Recognition,4
+2017,腾讯,Computer Vision and Pattern Recognition,12
+2017,阿里,Computer Vision and Pattern Recognition,3
+2018,百度,Computer Vision and Pattern Recognition,20
+2018,腾讯,Computer Vision and Pattern Recognition,48
+2018,阿里,Computer Vision and Pattern Recognition,11
+2019,百度,Computer Vision and Pattern Recognition,9
+2019,腾讯,Computer Vision and Pattern Recognition,40
+2019,阿里,Computer Vision and Pattern Recognition,8
+2020,百度,Computer Vision and Pattern Recognition,0
+2020,腾讯,Computer Vision and Pattern Recognition,3
+2020,阿里,Computer Vision and Pattern Recognition,0
+2017,百度,Artificial Intelligence,0
+2017,腾讯,Artificial Intelligence,0
+2017,阿里,Artificial Intelligence,0
+2018,百度,Artificial Intelligence,0
+2018,腾讯,Artificial Intelligence,0
+2018,阿里,Artificial Intelligence,0
+2019,百度,Artificial Intelligence,0
+2019,腾讯,Artificial Intelligence,0
+2019,阿里,Artificial Intelligence,1
+2020,百度,Artificial Intelligence,0
+2020,腾讯,Artificial Intelligence,0
+2020,阿里,Artificial Intelligence,0
